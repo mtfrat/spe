@@ -1972,6 +1972,10 @@ footer {
   .carousel {
     max-width: 800px;
   }
+
+  .boton {
+    left: 27% !important;
+  }
 }
 
 /* mobil */
