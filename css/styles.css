@@ -1694,7 +1694,10 @@
 }
 
 .card {
-  margin: 10px !important;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 5px;
+  margin-bottom: 10px;
   width: 100% !important;
   height: 240px !important;
   border: none !important;
@@ -1702,7 +1705,7 @@
 }
 
 .card img {
-  width: 100%;
+  width: 100% !important;
   height: 240px;
   border: 1px solid #00359c;
   border-radius: 5px;
